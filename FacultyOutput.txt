@@ -1,0 +1,28 @@
+Name: Dr. Byron Gao
+Title: Associate Professor
+Department: Computer Science
+Office: CMAL 311D
+Phone: (512) 245-0348
+Email: jg66@txstate.edu
+
+Name: Dr. Mina S Guirguis
+Title: Professor
+Department: Computer Science
+Office: CMAL 311E
+Phone: (512) 245-6384
+Email: mg65@txstate.edu
+
+Name: Dr. cj Hwang
+Title: Professor
+Department: Computer Science
+Office: CMAL 301D
+Phone: (512) 245-3407
+Email: ch01@txstate.edu
+
+Name: Dr. Tanzima Islam
+Title: Assistant Professor
+Department: Computer Science
+Office: CMAL 211
+Phone: (512) 245-3409
+Email: t_i24@txstate.edu
+
